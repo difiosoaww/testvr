@@ -1,2 +1,2 @@
-# camera-app
-Super awesome camera web app built with HTML, CSS, and JS.
+# test-vr
+Simple test to access a device camera and display a 3d model via AFrame Library
